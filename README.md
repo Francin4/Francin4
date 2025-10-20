@@ -1,7 +1,7 @@
 <div>
     <div>
         <h1>🌻 Franciele Matos</h1>
-        <p>Olá, me chamo Franciele Matos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento fullstack e em busca da primeira oportunidade como desenvolvedora. Apaixonada por tecnologia e gatos.</p>
+        <p>Olá, me chamo Franciele Matos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com um grande interesse em desenvolvimento fullstack. Apaixonada por tecnologia e gatos.</p>
     </div>
     <div>
         <h2>🌱 Linguagens e tecnologias</h2>
