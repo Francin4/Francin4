@@ -10,6 +10,5 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 40px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 40px"/>
-        <img src="gato-girando.gif" style="width: 65px">
     </div>
 </div>
